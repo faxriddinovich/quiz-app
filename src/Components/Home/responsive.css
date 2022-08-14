@@ -1,0 +1,324 @@
+@media (min-width:360px) and (max-width:390px){
+    .count input{
+        width: 75%;
+    }
+    .category select{
+        width: 75% !important;
+        font-size: 16px;
+    }
+    label{
+        font-size: 17px;
+    }
+
+    .questions{
+        width: 295px !important;
+        margin: 0;
+        padding: 3px 10px !important;
+    }
+    .box{
+        margin: 15px 0 !important;
+        padding: 0px;
+        width: 98% !important;
+        height: 525px !important;
+    }
+    .body{
+        margin-top: 85px !important;
+    }
+    .card-box{
+        padding: 5px 7px !important;
+        width: 98 !important;
+    }
+    .card-header{
+        width: 35%;
+    }
+    .card-box-body{
+        width: 64%;
+        padding: 0 !important;
+    }
+    .card-header h3{
+        font-size: 15px !important;
+    }
+    .selectAnswer{
+        width: 95% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        text-align: right;
+    }
+    .selectAnswer li{
+        font-size: 13px !important;
+        width: 98% !important;
+        padding: 3px 5px;
+        text-align: right;
+    }
+    .btn-slide{
+        padding: 7px 15px !important;
+        font-size: 12px;
+    }
+    .btn-finish{
+        padding: 7px 15px !important;
+        font-size: 12px;
+    }
+}
+
+@media (min-width:391px) and (max-width:470px){
+    .count input{
+        width: 85%;
+    }
+    .category select{
+        width: 85%;
+        font-size: 17px;
+    }
+
+    .questions{
+        width: 295px !important;
+        margin: 15px auto;
+        padding: 3px 10px !important;
+    }
+    .box{
+        margin: 15px auto !important;
+        padding: 0px;
+        width: 98% !important;
+        height: 525px !important;
+        display: flex;
+        justify-content: center;
+    }
+    .body{
+        margin-top: 85px !important;
+    }
+    .card-box{
+        padding: 5px 7px !important;
+        width: 98 !important;
+    }
+    .card-header{
+        width: 35%;
+    }
+    .card-box-body{
+        width: 64%;
+        padding: 0 !important;
+    }
+    .card-header h3{
+        font-size: 15px !important;
+    }
+    .selectAnswer{
+        width: 95% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        text-align: right;
+    }
+    .selectAnswer li{
+        font-size: 13px !important;
+        width: 98% !important;
+        padding: 3px 5px;
+        text-align: right;
+    }
+    .btn-slide{
+        padding: 7px 15px !important;
+        font-size: 12px;
+    }
+    .btn-finish{
+        padding: 7px 15px !important;
+        font-size: 12px;
+    }
+}
+
+@media (min-width:471px) and (max-width:570px){
+    .count input{
+        width: 90%;
+    }
+    .category select{
+        width: 80%;
+        font-size: 19px;
+    }
+
+    .questions{
+        width: 395px !important;
+        margin: 15px auto;
+        padding: 3px 10px !important;
+    }
+    .box{
+        margin: 15px auto !important;
+        padding: 0px;
+        width: 98% !important;
+        height: 525px !important;
+        display: flex;
+        justify-content: center;
+    }
+    .body{
+        margin-top: 85px !important;
+    }
+    .card-box{
+        padding: 5px 7px !important;
+        width: 98 !important;
+    }
+    .card-header{
+        width: 35%;
+    }
+    .card-box-body{
+        width: 64%;
+        padding: 0 !important;
+    }
+    .card-header h3{
+        font-size: 17px !important;
+    }
+    .selectAnswer{
+        width: 95% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        text-align: right;
+    }
+    .selectAnswer li{
+        font-size: 13px !important;
+        width: 98% !important;
+        padding: 3px 5px;
+        text-align: right;
+    }
+    .btn-slide{
+        padding: 7px 15px !important;
+        font-size: 12px;
+    }
+    .btn-finish{
+        padding: 7px 15px !important;
+        font-size: 12px;
+    }
+}
+
+@media (min-width:571px) and (max-width:770px){
+    .count input{
+        width: 90%;
+    }
+    .category select{
+        width: 90%;
+        font-size: 20px;
+    }
+    label{
+        font-size: 20px;
+    }
+
+    .questions{
+        width: 455px !important;
+        margin: 15px auto;
+        padding: 3px 10px !important;
+    }
+    .box{
+        margin: 15px auto !important;
+        padding: 0px;
+        width: 98% !important;
+        height: 525px !important;
+        display: flex;
+        justify-content: center;
+    }
+    .body{
+        margin-top: 85px !important;
+    }
+    .card-box{
+        padding: 5px 7px !important;
+        width: 98 !important;
+    }
+    .card-header{
+        width: 35%;
+    }
+    .card-box-body{
+        width: 64%;
+        padding: 0 !important;
+    }
+    .card-header h3{
+        font-size: 17px !important;
+    }
+    .selectAnswer{
+        width: 95% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        text-align: right;
+    }
+    .selectAnswer li{
+        font-size: 15px !important;
+        width: 98% !important;
+        padding: 3px 5px;
+        text-align: right;
+    }
+    .btn-slide{
+        padding: 7px 15px !important;
+        font-size: 12px;
+    }
+    .btn-finish{
+        padding: 7px 15px !important;
+        font-size: 12px;
+    }
+}
+
+@media (min-width:771px) and (max-width:970px){
+    .count input{
+        width: 90%;
+    }
+    .category select{
+        width: 90%;
+        font-size: 20px;
+    }
+    label{
+        font-size: 20px;
+    }
+
+    .questions{
+        width: 455px !important;
+        margin: 15px auto;
+        padding: 3px 10px !important;
+    }
+    .box{
+        margin: 15px auto !important;
+        padding: 0px;
+        width: 98% !important;
+        height: 525px !important;
+        display: flex;
+        justify-content: center;
+    }
+    .body{
+        margin-top: 85px !important;
+    }
+    .card-box{
+        padding: 5px 7px !important;
+        width: 98 !important;
+    }
+    .card-header{
+        width: 35%;
+    }
+    .card-box-body{
+        width: 64%;
+        padding: 0 !important;
+    }
+    .card-header h3{
+        font-size: 17px !important;
+    }
+    .selectAnswer{
+        width: 95% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        text-align: right;
+    }
+    .selectAnswer li{
+        font-size: 15px !important;
+        width: 98% !important;
+        padding: 3px 5px;
+        text-align: right;
+    }
+    .btn-slide{
+        padding: 7px 15px !important;
+        font-size: 12px;
+    }
+    .btn-finish{
+        padding: 7px 15px !important;
+        font-size: 12px;
+    }
+}
+
+@media (min-width:971px) and (max-width:1200px){
+    .count input{
+        width: 90%;
+    }
+    .category select{
+        width: 90%;
+        font-size: 20px;
+    }
+    label{
+        font-size: 20px;
+    }
+}

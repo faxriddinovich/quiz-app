@@ -1,0 +1,9 @@
+.app{
+  background-color: #1CD6CE;
+  min-height: 895px;
+}
+@media (min-width:360px) and (max-width:390px){
+  .app{
+    min-height: 843px;
+  }
+}
